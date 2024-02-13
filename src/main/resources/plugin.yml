@@ -1,0 +1,6 @@
+name: hachis
+version: 1.0
+forked: habu
+main: xandeel.hachis.Hachis
+depend:
+  - helper
